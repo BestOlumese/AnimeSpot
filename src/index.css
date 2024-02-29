@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* 
+bg-main 000721 
+bg-primary 031141
+*/
+body {
+    background-color: #252526;
+    color: #fff;
+}
+
+.ant-pagination > li > a {
+    color: #fff !important;
+    background-color: transparent !important;
+    border: none !important;
+    border-radius: none !important;
+   }
+   
+   .ant-pagination > li > button {
+       color: #fff !important;
+   }
+
+   .ant-pagination-item-ellipsis {
+    color: #fff !important;
+   }
+   
+   .ant-pagination > li.ant-pagination-item-active {
+       background-color: rgb(107, 33, 168);
+   }
+   
+   .ant-pagination > li.ant-pagination-item-active > a {
+       color: white !important;
+   }
