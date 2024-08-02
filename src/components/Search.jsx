@@ -81,7 +81,7 @@ const Search = ({ title }) => {
                     (loading) ? 
                     (
                         <div className="flex justify-center">
-                            <img src='/public/assets/images/loader.gif' className='w-[70px]' />
+                            <img src='./assets/images/loader.gif' className='w-[70px]' />
                         </div>
                     )
                     : ' '
