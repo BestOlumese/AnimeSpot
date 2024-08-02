@@ -6,7 +6,7 @@ const Sidebar = ({ menu }) => {
   return (
     <div className={`grid-cols-4 w-[60%] md:w-[25%] lg:w-[20%] ${menu ? 'md:block hidden' : 'md:hidden sm:block'} h-screen fixed py-7 bg-gradient-to-l from-purple-800 to-purple-500 text-white z-50`}>
       <div className="mx-auto">
-        <img src="/public/logo.png" className='w-200' alt="" />
+        <img src="/logo.png" className='w-200' alt="" />
       </div>
       <div className="flex flex-col mt-10 mx-auto pl-10">
         <ul>

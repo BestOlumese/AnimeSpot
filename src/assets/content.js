@@ -67,22 +67,22 @@ export const seasonYear = [
 
 export const slider = [
     {
-        "image": "/public/assets/images/slider/bleach.jpg",
+        "image": "./assets/images/slider/bleach.jpg",
         "title": "Bleach",
         "description": "Ichigo Kurosaki is an ordinary high schooler—until his family is attacked by a Hollow, a corrupt spirit that seeks to devour human souls."
     },
     {
-        "image": "/public/assets/images/slider/Hokkaido.jpg",
+        "image": "./assets/images/slider/Hokkaido.jpg",
         "title": "Hokkaido Gals Are Super Adorable!",
         "description": "High school boy Tsubasa moves to Kitami City up in Hokkaido where he meets a 'gal' at a bus stop."
     },
     {
-        "image": "/public/assets/images/slider/Villian.jpg",
+        "image": "./assets/images/slider/Villian.jpg",
         "title": "Mr. Villian's Day Off",
         "description": "As a member of a malevolent organization, the General is tasked with invading Earth and wiping out humanity."
     },
     {
-        "image": "/public/assets/images/slider/Dellicious.jpg",
+        "image": "./assets/images/slider/Dellicious.jpg",
         "title": "Delicious in Dungeon",
         "description": "After the Golden Kingdom is sunk underground by an insane magician, its king emerges, promising all of his treasure to any who defeat the magician, before crumbling to dust."
     },
